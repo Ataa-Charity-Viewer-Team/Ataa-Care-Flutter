@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  <img src="https://img.shields.io/badge/HTML5-Structure-orange?logo=html5&style=for-the-badge" alt="HTML5" /> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </div>
 
 ---
